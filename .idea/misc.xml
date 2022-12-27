@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/Conecta4/app/src/main/res/drawable/circulo_tablero.xml" value="0.1995" />
+        <entry key="..\:/AndroidStudio/Conecta4/app/src/main/res/layout/activity_main.xml" value="0.30344202898550726" />
+        <entry key="..\:/AndroidStudio/Conecta4/app/src/main/res/layout/view_circulo_tablero.xml" value="0.17300724637681159" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
